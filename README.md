@@ -1,2 +1,2 @@
 # EJS
-Uuuuuhmmm .....It's just ans assignment no!
+EJS Coding Assignment
