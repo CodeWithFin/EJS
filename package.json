@@ -1,0 +1,16 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "EJS Coding Assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
